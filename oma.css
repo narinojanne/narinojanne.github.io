@@ -102,6 +102,10 @@ figure {
     margin-bottom: 5px;
 }
 
+figcaption {
+        font-size: 0.75em;
+    }
+
 img {
     width: 50%;
     max-width: 300px;
@@ -238,6 +242,10 @@ label {
     nav li:nth-of-type(1) {
         flex: 1;
         padding-left: 0px;
+    }
+
+    figcaption {
+        font-size: 0.8em;
     }
 
     img {
